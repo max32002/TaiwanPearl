@@ -1,14 +1,14 @@
-# 台灣粉圓 TaiwanPerl
+# 台灣圓體 TaiwanPearl
 
-f台灣粉圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)與[小杉圓體](https://fonts.google.com/specimen/Kosugi+Maru)，大多的字是思源黑體為主，有部份的中文使用小杉圓體的中文字。
+台灣圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)與[小杉圓體](https://fonts.google.com/specimen/Kosugi+Maru)，大多的字是思源黑體為主，有部份的中文使用小杉圓體的中文字。歡迎大家自由應用、自由優化、自由改作！
 
 ![字體比較](https://github.com/max32002/TaiwanPearl/raw/master/preview/compare.png)
 
 * 在「肉」、「糸」、「女」、「辶」、「食」的筆畫，台灣粉圓比較相似台灣教育部推薦字體筆順，適合教育用途。
-* 在繁體中文字的「草」部的筆畫，台灣粉圓是分開的二個部份。
+* 在繁體中文字的「草」部的筆畫，台灣圓體是分開的二個部份。
 * 在繁體中文字的「肉」部，小編功力不足，所以處理的不太漂亮，比使用月略醜。
 
-粉圓的主要差異：
+與小杉圓體的主要差異：
 * 辶，從一折變二折的版本。
 * 糸，從小變三點。
 * 草，從連起來，變分開的版本。
@@ -26,7 +26,7 @@ f台灣粉圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-s
 * 周：的吉換成「土」沒有長尾巴的版本。ex:奝
 * 冒：換成有空隙的版本。ex:帽冒慢謾漫遢禢榻褟蹋
 * 垂：換成有空隙的版本。ex:睡捶郵錘綞
-* 女：改申出手的版本。
+* 女：改伸出手的版本。
 * 謠：加一撇。
 * 鬲：改「㓁」為「半」。ex:讞獻鎘融竵膈䣓
 * 玄：換寫法。ex:玄率蟀泫溪晉倒嘰頌訟雄隰鄉孫蓀蓄舷雞雍擁係系慈累螺眩磁絃緊縈弦。
@@ -100,7 +100,6 @@ f台灣粉圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-s
 * 不是草，換成草：錨鍈蟒蠇蠎
 
 
-
 ## 更新日誌
 [點擊此處](https://github.com/max32002/TaiwanPearl/change_log.md) 查看更新記錄。
 
@@ -126,7 +125,7 @@ f台灣粉圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-s
     
 ## 相關網頁
 
-* 台灣粉圓 TaiwanPearl
+* 台灣圓體 TaiwanPearl
 https://max-everyday.com/2020/06/taiwanpearl/
 * 獅尾四季春字體 Swei Spring
 https://max-everyday.com/2020/04/swei-spring/
