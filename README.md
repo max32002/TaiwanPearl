@@ -101,7 +101,7 @@
 
 
 ## 更新日誌
-[點擊此處](https://github.com/max32002/TaiwanPearl/change_log.md) 查看更新記錄。
+[點擊此處](https://github.com/max32002/TaiwanPearl/blob/master/change_log.md) 查看更新記錄。
 
 ## 下載字型
 
