@@ -1,6 +1,6 @@
 # 台灣圓體 TaiwanPearl
 
-台灣圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)與[小杉圓體](https://fonts.google.com/specimen/Kosugi+Maru)，大多的字是思源黑體為主，有部份的中文使用小杉圓體的中文字。歡迎大家自由應用、自由優化、自由改作！
+台灣圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)與[小杉圓體](https://fonts.google.com/specimen/Kosugi+Maru)，大多的字是思源黑體為主，有部份的中文使用小杉圓體的中文字。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
 ![字體比較](https://github.com/max32002/TaiwanPearl/raw/master/preview/compare.png)
 
