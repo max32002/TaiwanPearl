@@ -126,6 +126,7 @@ url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.110/webfont/TaiwanPearl-R
 * 很多字還是可以看到思源黑體的的直角。
 * 希望有贊助者，或其他勇者繼續改良，或提供調整過的字。
 * 由於小編對字體編碼方式完全不清楚，相較於原版的「思源黑體」，可能有掉一些符號或不常用的字。
+* 感謝「豆腐烏」https://tauhu.tw/ji-hing/ 製作的思源系列沒有的方言用字。
 
 ## 著作權與授權
 
