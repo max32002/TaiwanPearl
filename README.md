@@ -115,8 +115,8 @@
 ```
 @font-face {
   font-family: TaiwanPearl-Regular;
-url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.0/webfont/TaiwanPearl-Regular.woff2) format("woff2")
-, url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.0/webfont/TaiwanPearl-Regular.woff) format("woff");
+url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.110/webfont/TaiwanPearl-Regular.woff2) format("woff2")
+, url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.110/webfont/TaiwanPearl-Regular.woff) format("woff");
 }
 ```
 
